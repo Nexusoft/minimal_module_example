@@ -4,5 +4,6 @@
   "version": "0.1.0",
   "apiVersion": "0.1.0",
   "description": "This is an example of what a minimal Nexus Module could be",
-  "type": "page-panel"
+  "type": "page-panel",
+  "files": ["index.html"]
 }
