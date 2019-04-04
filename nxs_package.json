@@ -2,7 +2,7 @@
   "name": "minimal_module_example",
   "displayName": "Minimal Module",
   "version": "0.1.0",
-  "apiVersion": "0.1.0",
+  "specVersion": "0.1.0",
   "description": "This is an example of what a minimal Nexus Module could be",
   "type": "page-panel",
   "files": ["index.html"]
