@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "specVersion": "0.1.0",
   "description": "This is an example of what a minimal Nexus Module could be",
-  "type": "page-panel",
+  "type": "app",
+  "options": {
+    "wrapInPanel": true
+  },
   "files": ["index.html"]
 }
