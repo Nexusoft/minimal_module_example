@@ -1,8 +1,8 @@
 {
   "name": "minimal_module_example",
   "displayName": "Minimal Module",
-  "version": "0.1.0",
-  "specVersion": "0.1.0",
+  "version": "0.2.0",
+  "targetWalletVersion": "2.2.0",
   "description": "This is an example of what a minimal Nexus Module could be",
   "type": "app",
   "options": {
