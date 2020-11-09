@@ -1,9 +1,9 @@
 {
-  "name": "minimal_module_example",
+  "name": "minimal_module_template",
   "displayName": "Minimal Module",
   "version": "0.2.0",
   "targetWalletVersion": "2.2.0",
-  "description": "This is an example of what a minimal Nexus Module could be",
+  "description": "A minimal Nexus Wallet module template",
   "type": "app",
   "options": {
     "wrapInPanel": true
