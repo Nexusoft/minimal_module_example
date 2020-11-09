@@ -1,7 +1,7 @@
 {
   "name": "minimal_module_template",
   "displayName": "Minimal Module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "targetWalletVersion": "2.2.0",
   "description": "A minimal Nexus Wallet module template",
   "type": "app",
