@@ -1,6 +1,6 @@
 # minimal_module_template
 
-This is a minimal "hello world" module template for [Nexus Wallet](https://github.com/Nexusoft/NexusInterface).
+This is a "hello world" module template for [Nexus Wallet](https://github.com/Nexusoft/NexusInterface) built with plain HTML/CSS to demonstrate the minimal requirements of a Nexus Wallet Module.
 
 ### How to use this template to develop your own Nexus Wallet module
 
