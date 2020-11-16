@@ -8,5 +8,9 @@
   "options": {
     "wrapInPanel": true
   },
-  "files": ["index.html"]
+  "files": ["index.html"],
+  "author": {
+    "name": "Krysto",
+    "email": "quy.p.hoang@gmail.com"
+  }
 }
